@@ -3,12 +3,12 @@
 <center><b><h2>Universidade Federal Fluminense</h2></b></center>
 <center>
 
-<img src="http://jessemillar.github.io/available-on-itchio-badge/badge-bw.png" href="https://joaolima.itch.io/rastros-perdidos" alt="Disponível no itch.io" width="150px">
+<img src="http://jessemillar.github.io/available-on-itchio-badge/badge-bw.png" href="https://joaolima.itch.io/rastros-perdidos" alt="Disponível no itch.io" width="150px"><br>
 
 </center>
 
-<center>Laboratório de Programação de Jogos</center> 
-<center><b>Participantes do projeto:</b></center>  
+<center>Laboratório de Programação de Jogos</center> <br>
+<center><b>Participantes do projeto:</b></center>  <br>
 <center>João Gabriel Lima Marinho e <a href="https://github.com/lynakashima">Yumi Nakashima</a></center>
 
 ## 1. Nome do projeto
@@ -61,15 +61,15 @@ Sprites de Sofia.
 Os habitantes da vila são personagens secundários que podem ser encontrados nas ruas. A interação com eles se dá após completar as três fases, para decidir quem é o culpado.
 
 <center>
-<img src="./assets/readme/NPC/1.png" width="50px"/>
-<img src="./assets/readme/NPC/2.png" width="50px"/>
-<img src="./assets/readme/NPC/3.png" width="50px"/>
-<img src="./assets/readme/NPC/4.png" width="50px"/>
-<img src="./assets/readme/NPC/5.png" width="50px"/>
-<img src="./assets/readme/NPC/6.png" width="50px"/>
-<img src="./assets/readme/NPC/7.png" width="50px"/>
-<img src="./assets/readme/NPC/9.png" width="44px"/>
-<img src="./assets/readme/NPC/10.png" width="50px"/>
+<img src="./assets/readme/npc/1.png" width="50px"/>
+<img src="./assets/readme/npc/2.png" width="50px"/>
+<img src="./assets/readme/npc/3.png" width="50px"/>
+<img src="./assets/readme/npc/4.png" width="50px"/>
+<img src="./assets/readme/npc/5.png" width="50px"/>
+<img src="./assets/readme/npc/6.png" width="50px"/>
+<img src="./assets/readme/npc/7.png" width="50px"/>
+<img src="./assets/readme/npc/9.png" width="44px"/>
+<img src="./assets/readme/npc/10.png" width="50px"/>
 </center>
 
 **Enredo:** \
