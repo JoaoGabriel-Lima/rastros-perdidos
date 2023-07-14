@@ -1,8 +1,11 @@
 <img src="./assets/readme/banner.png"/>
 
 <center><b><h2>Universidade Federal Fluminense</h2></b></center>
+<center>
 
-[![Disponível no itch.io](http://jessemillar.github.io/available-on-itchio-badge/badge-bw.png)](https://joaolima.itch.io/rastros-perdidos)
+<img src="http://jessemillar.github.io/available-on-itchio-badge/badge-bw.png" href="https://joaolima.itch.io/rastros-perdidos" alt="Disponível no itch.io" width="150px">
+
+</center>
 
 <center>Laboratório de Programação de Jogos</center> 
 <center><b>Participantes do projeto:</b></center>  
