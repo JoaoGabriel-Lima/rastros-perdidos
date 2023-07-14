@@ -1,5 +1,6 @@
 def gameover(casa, vila, texto = "Algo aconteceu e você perdeu as pistas"):
     import pygame
+    import sys
 
     pygame.init()
     pygame.font.init()
