@@ -35,11 +35,11 @@ Cada casa da vila representa uma fase do jogo. Cada fase é composta por enigmas
 **Personagens:** \
 Sofia Moretti - A protagonista do jogo. É uma detetive determinada e astuta que está em busca de pistas para encontrar a pessoa desaparecida. Já foi uma moradora da vila onde acontece a história. Ela é uma mulher jovem, com cerca de 25 anos, com cabelos castanhos ondulados e olhos verdes. Ela veste um sobretudo bege e um chapéu de detetive clássico.
 
-<center>
-<img src="./assets/readme/1.png" width="200px" style="margin-right: 30px;"/>
-&nbsp;
-<img src="./assets/readme/2.png" width="360px"/>
-</center>
+<p float="left" style="text-align: center;">
+    <img src="./assets/readme/1.png" width="200px" style="margin-right: 30px;"/>
+    &nbsp;
+    <img src="./assets/readme/2.png" width="360px"/>
+</p>
 
 <center>
 Rascunhos e desenhos da protagonista
@@ -47,11 +47,11 @@ Rascunhos e desenhos da protagonista
 
 &nbsp;
 
-<center>
+<p float="left" style="text-align: center;">
 <img src="./assets/readme/3.png" width="80px" style="margin-right: 30px;"/>
 &nbsp;
 <img src="./assets/readme/4.png" width="80px"/>
-</center>
+</p>
 
 <center>
 Sprites de Sofia.
@@ -60,7 +60,7 @@ Sprites de Sofia.
 **Habitantes da Vila:** \
 Os habitantes da vila são personagens secundários que podem ser encontrados nas ruas. A interação com eles se dá após completar as três fases, para decidir quem é o culpado.
 
-<center>
+<p float="left" style="text-align: center;">
 <img src="./assets/readme/npc/1.png" width="50px"/>
 <img src="./assets/readme/npc/2.png" width="50px"/>
 <img src="./assets/readme/npc/3.png" width="50px"/>
@@ -70,7 +70,7 @@ Os habitantes da vila são personagens secundários que podem ser encontrados na
 <img src="./assets/readme/npc/7.png" width="50px"/>
 <img src="./assets/readme/npc/9.png" width="44px"/>
 <img src="./assets/readme/npc/10.png" width="50px"/>
-</center>
+</p>
 
 **Enredo:** \
 A história é a investigação de um desaparecimento na pacata Vila Jade. Sofia, uma detetive em ascensão e antiga moradora da vila foi chamada para desvendar o caso. Investigando as casas, é possível que o jogador junte três evidências para revelar o culpado.
