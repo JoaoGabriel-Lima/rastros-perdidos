@@ -3,7 +3,7 @@
 <center><b><h2>Universidade Federal Fluminense</h2></b></center>
 <center>
 
-<img src="http://jessemillar.github.io/available-on-itchio-badge/badge-bw.png" href="https://joaolima.itch.io/rastros-perdidos" alt="Disponível no itch.io" width="150px"><br>
+<a href="https://joaolima.itch.io/rastros-perdidos"><img src="http://jessemillar.github.io/available-on-itchio-badge/badge-bw.png" href="https://joaolima.itch.io/rastros-perdidos" alt="Disponível no itch.io" width="150px"></a><br>
 
 </center>
 
